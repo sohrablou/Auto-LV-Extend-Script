@@ -23,19 +23,19 @@ Designed for Linux systems with LVM, ideal for auto-scaling storage scenarios.
 Clone this repository:
 ```
 bash
-git clone https://github.com/USERNAME/auto-lv-extend.git
+git clone https://github.com/sohrablou/Auto-LV-Extend-Script.git
 cd auto-lv-extend
 ```
 
 ## ▶️ Usage
 Make the script executable:
 ```
-chmod +x lv_extend.sh
+chmod +x auto_lv_extend.sh
 ```
 
 Run the script:
 ```
-sudo ./lv_extend.sh
+sudo ./auto_lv_extend.sh
 ```
 
 Example Output:
