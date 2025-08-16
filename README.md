@@ -28,12 +28,12 @@ cd auto-lv-extend-script
 
 ## ▶️ Usage
 Make the script executable:
-```
+```bash
 chmod +x auto_lv_extend.sh
 ```
 
 Run the script:
-```
+```bash
 sudo ./auto_lv_extend.sh
 ```
 
