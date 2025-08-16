@@ -21,8 +21,7 @@ Designed for Linux systems with LVM, ideal for auto-scaling storage scenarios.
 
 ## 🔧 Installation
 Clone this repository:
-```
-bash
+```bash
 git clone https://github.com/sohrablou/auto-lv-extend-script.git
 cd auto-lv-extend-script
 ```
