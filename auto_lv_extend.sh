@@ -31,4 +31,4 @@ if (( $(echo "$FREE_SPACE > 0" | bc -l) )); then
 else
     echo "❌ No free space in VG. You need to add a new disk."
 fi
-echo "-----------------"
+echo " "
