@@ -23,8 +23,8 @@ Designed for Linux systems with LVM, ideal for auto-scaling storage scenarios.
 Clone this repository:
 ```
 bash
-git clone https://github.com/sohrablou/Auto-LV-Extend-Script.git
-cd auto-lv-extend
+git clone https://github.com/sohrablou/auto-lv-extend-script.git
+cd auto-lv-extend-script
 ```
 
 ## ▶️ Usage
