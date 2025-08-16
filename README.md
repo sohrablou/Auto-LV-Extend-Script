@@ -8,6 +8,7 @@ bash
 chmod +x lv_extend.sh
 ./lv_extend.sh
 ```
-##Author
+## Author
 Mohammad Sohrablou
+
 https://github.com/sohrablou/
